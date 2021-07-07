@@ -36,7 +36,6 @@ body {
 }
 
 .player-progress {
-    background: coral;
     position: absolute;
     inset-block-end: 0;
     inset-inline: 0;
